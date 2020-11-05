@@ -1,4 +1,4 @@
-# Bot-up-time
+# Bot uptime
 ```*Discord.js v12*```
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@
 :warning: &nbsp; **Warning** &nbsp; :warning:
 
 I am ***NOT*** expert, so use this bot at your own risk!
-Bot up time Discord.js v12
+Bot uptime Discord.js v12
