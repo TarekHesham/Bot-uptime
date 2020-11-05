@@ -13,5 +13,5 @@
 
 :warning: &nbsp; **Warning** &nbsp; :warning:
 
-I am ***NOT*** expert, so use this tool at your own risk!
+I am ***NOT*** expert, so use this bot at your own risk!
 Bot up time Discord.js v12
