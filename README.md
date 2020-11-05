@@ -1,5 +1,5 @@
 # Bot-up-time
-```***Discord.js v12***```
+```*Discord.js v12*```
 ------------------------------------------------------------------------
 
 ### :inbox_tray: &nbsp; How to Use &nbsp; :inbox_tray:
